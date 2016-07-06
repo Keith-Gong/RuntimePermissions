@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d9deba7a1f32c96997b4060521445b359701e7ab\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_568cc8a3c198ccbd4c22ede7e5cf962300012a21\classes.dex" />
+    </item>
+    <item
+        jar="D:\Work\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_17f5202b6145d8c630f3687a9e9f46f6ff00a61f\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_7b479270e5944241b5af5c0af2ea3704ccae57f5\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.0_7e94966708b71c13e1c562fa906a5f2aaa7d404c\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_71116809359479040916a609fbd766c7038a6cd9\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="adf3df9eedb80a3cccf6a75785ddc68b9a647cbe">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3aeeb3fd73923e2fda4ab229177b12faa672e19b\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8a2cdd53ca658c6d684b3d6a9ab84aa92360dce">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9f9ccfe1b5e6492059e55e46bcd95a3d3822240f\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_6ec0a8359056d026c6abf83a2e0ba7c1b335822f\classes.dex" />
+    </item>
+    <item
+        jar="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\WorkSpace\AndroidSpace\RuntimePermissions\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_99dd3902371951ac70a6184c4a2d76ca058302fe\classes.dex" />
+    </item>
+
+</items>
